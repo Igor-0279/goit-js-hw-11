@@ -12,7 +12,7 @@ const refs = {
   btnLoad: document.querySelector('.load-more'),
   textCollections: document.querySelector('.text-Collections'),
 };
-console.log(refs.btnLoad)
+
 
 function renderImages(array) {
   const markup = array
